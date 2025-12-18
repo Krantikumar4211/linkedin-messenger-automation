@@ -1,0 +1,9 @@
+# Environment files
+.env
+
+# Build output
+*.exe
+
+# Go cache
+/bin/
+/pkg/
