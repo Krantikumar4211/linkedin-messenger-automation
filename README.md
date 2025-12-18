@@ -7,10 +7,9 @@ problem-solving skills, automation logic, and human-like interaction patterns.
 
 This is a technical demonstration project and not a production-ready automation tool.
 
----
-
 ## Project Structure
 
+```
 linkedin-messenger-automation/
 │
 ├── cmd/
@@ -37,9 +36,7 @@ linkedin-messenger-automation/
 ├── .env.example
 ├── go.mod
 └── README.md
-
-
----
+```
 
 ## Features Implemented
 
